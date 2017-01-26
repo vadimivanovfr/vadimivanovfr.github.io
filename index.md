@@ -11,7 +11,7 @@
 
 ## Other Projects
 
-      |  ![Poker Helper Image](/projects/pokerhelper.png) |
+   f  |  ![Poker Helper Image](/projects/pokerhelper.png) |
 ------|--------------|
 Mafia | Poker Helper |
 ------|--------------|
