@@ -11,8 +11,9 @@
 
 ## Other Projects
 
+      |  ![Poker Helper Image](/projects/pokerhelper.png) |
+------|--------------|
 Mafia | Poker Helper |
 ------|--------------|
-Online Android game | Poker guide for novice (My first project on Android). |
-                    | Available on [Google Play](https://play.google.com/store/apps/details?id=ru.daringmandarin.pokerhelper) (only in russian)
+Online Android game | Poker guide for novice (My first project on Android). Available on [Google Play](https://play.google.com/store/apps/details?id=ru.daringmandarin.pokerhelper) (only in russian) |
 --------------------|------------------------------------------------------|
