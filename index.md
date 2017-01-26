@@ -8,3 +8,10 @@
   ----------------------------|
  {% endif %}
 {% endfor %}
+
+## Other Projects
+
+Mafia | Poker Helper |
+------|--------------|
+Online Android game | Poker guide for novice (My first project on Android) |
+--------------------|------------------------------------------------------|
