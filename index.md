@@ -4,7 +4,7 @@
 {% for repository in site.github.public_repositories %}
  {% if repository.name != site.github.project_title %}
   <tr>
-   <td>[{{ repository.name }}]({{ repository.html_url }})</td>
+   <td><a href="{{ repository.html_url }}">{{ repository.name }}</a></td>
   </tr>
   <tr>
    <td>{{ repository.description }}</td>
@@ -21,8 +21,8 @@
    <td>Poker Helper</td>
   </tr>
   <tr>
-   <td><img src="/projects/mafia.png" height="15%"></td>
-   <td><img src="/projects/pokerhelper.png" height="15%"></td>
+   <td><img src="/projects/mafia.png" width="25%"></td>
+   <td><img src="/projects/pokerhelper.png" width="25%"></td>
   </tr>
   <tr>
    <td>Online Android game</td>
