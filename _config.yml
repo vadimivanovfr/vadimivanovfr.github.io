@@ -4,3 +4,9 @@ description: C# Developer
 google_analytics: UA-90937854-1
 gems:
   - jekyll-seo-tag
+social:
+  name: Vadim Ivanov
+  links:
+    - https://www.linkedin.com/in/vadim-ivanov-17852639
+    - https://github.com/vadimivanovfr
+google-site-verification: FbTigjt8IfSLsMrqyC37Tf_EUMMk_Ryuy4YoL5_NGLA
