@@ -25,7 +25,7 @@
    <td align="center"><img src="/projects/pokerhelper.png" width="35%"></td>
   </tr>
   <tr>
-   <td>Online Android game</td>
+   <td>Online game for Android™</td>
    <td>Poker guide for novice (My first project on Android). Available on <a href="https://play.google.com/store/apps/details?id=ru.daringmandarin.pokerhelper">Google Play</a> (only in russian)</td>
   </tr>
   <tr>
