@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: Vadim Ivanov
-description: C# Developer
+description: Software Developer
 google_analytics: UA-90937854-1
 gems:
   - jekyll-seo-tag
